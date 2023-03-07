@@ -1,0 +1,27 @@
+/*
+MY COLOR PALETTE
+Color 1 - #HEX
+Color 2 - #HEX
+Color 3 - #HEX
+Color 4 - #HEX
+Color 5 - #HEX
+*/
+
+body {
+    background-color: gainsboro;
+    text-align:center;
+    color: orangered;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    text-align:center;
+    font-size:44px;
+    font-family: 'Space Mono', monospace;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: white;
+    padding: 25px 25px 25px 25px;
+    margin:auto;
+}
