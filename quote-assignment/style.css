@@ -10,18 +10,22 @@ Color 5 - #HEX
 body {
     background-color: gainsboro;
     text-align:center;
-    color: orangered;
 }
 
 div {
-    width: 300px;
-    height: 300px;
-    text-align:center;
-    font-size:44px;
     font-family: 'Space Mono', monospace;
-    border-width: 3px;
-    border-style: dashed;
-    border-color: white;
-    padding: 25px 25px 25px 25px;
+    background-color: lightcoral;
+    color: blue;
+    border: 5px solid black;
+    padding:10px;
     margin:auto;
+    width:300px;
+    height:500px;
+    text-align: center;
+    font-size:44px;
+}
+
+#highlight{
+    color:pink;
+    font-eight:bold;
 }
