@@ -1,0 +1,99 @@
+
+
+@media {
+    
+    #header{
+        background-image:url(bautista2.webp);
+        background-size:cover;
+        background-position: center;
+        color: white;
+        text-shadow: 0 0 5px #DF4601, 0 0 5px #DF4601;
+        font-family: 'Roboto', sans-serif;
+        text-align: right;
+    }
+    
+    h1{
+        padding: 300px 10px 10px 300px;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    #body{
+        background-color: gainsboro;
+        font-family: 'Roboto', sans-serif;
+        width:50%;
+    }
+    
+    body{
+                background-color: gainsboro;
+
+    }
+    
+    img{
+        width:100%;
+    }
+    
+    p{
+        margin: 20px;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    h3{
+        margin: 10px;
+        font-family: 'Roboto', sans-serif;
+        color: #DF4601;
+    }
+    
+    h4{
+       font-family: 'Roboto', sans-serif;
+        color: white; 
+    }
+    
+    .pullquote{
+        
+    }
+    
+    .quote {
+        font-size:50px;
+        font-family: 'Oswald', sans-serif;
+        color: #DF4601;
+        text-align: center;
+        
+    }
+    
+    .attribution{
+        font-size:50px;
+        font-family: 'Oswald', sans-serif;
+        text-align: center;
+    }
+    
+}
+
+
+@media (min-width: 300px) {
+    
+        #body{
+        width:80%;
+    }
+}
+
+@media (min-width: 576px) {
+    
+        #body{
+        width:70%;
+    }
+}
+
+@media (min-width: 992px) {
+  
+        #body{
+        width:60%;
+    }
+}
+
+@media (min-width: 1200px) {
+    
+    #body{
+        width:50%;
+    }
+ 
+}
